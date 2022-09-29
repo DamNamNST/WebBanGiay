@@ -53,7 +53,7 @@ const Pay = (props: Props) => {
     }
 
     return (
-        <div className="container mx-auto mt-10">
+        <div className="max-w-7xl mx-auto  pt-48">
             <ListLogin />
             <ListPromoCode />
             <div className="md:flex  my-10 sm:flex-none ">

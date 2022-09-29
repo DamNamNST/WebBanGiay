@@ -25,7 +25,7 @@ const Cart = (props: Props) => {
         }
     ]
     return (
-        <div className="container mx-auto mt-10">
+        <div className="max-w-7xl mx-auto  pt-48">
             <div className="md:flex  my-10 sm:">
                 <div className="md:w-4/6 bg-white px-10 py-10 sm:w-full">
                     <div className="flex justify-between border-b pb-8">
